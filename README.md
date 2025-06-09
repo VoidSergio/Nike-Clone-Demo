@@ -3,6 +3,8 @@
 This is a **responsive and animated clone** of the official Nike website built entirely with **React**, **Tailwind CSS**, and **Framer Motion**.  
 It was created purely for **educational purposes** and as part of my **personal portfolio** to showcase my frontend development skills.
 
+Url : https://e-commerce-demo-clone.netlify.app/
+
 ## 🚀 Features
 
 - Responsive layout for all screen sizes  
@@ -14,7 +16,7 @@ It was created purely for **educational purposes** and as part of my **personal 
 
 ## 📸 Preview
 
-![Nike Clone Screenshot](./public/anteprima_nike_clone.jpg) <!-- Replace with your actual screenshot path -->
+![Nike Clone Screenshot](./anteprima_nike_clone.jpg) <!-- Replace with your actual screenshot path -->
 
 ## ⚙️ Technologies Used
 
